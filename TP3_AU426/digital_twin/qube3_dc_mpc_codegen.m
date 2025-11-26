@@ -10,7 +10,7 @@ cg_options.casadi_real = 'real_T';
 cg_options.casadi_int = 'int_T';
 cg_options.real_min    = num2str(realmin('double'));   % or 'DBL_MIN'
 cg_options.with_header = true;
-cg = CodeGenerator('mpc_solver',cg_options);
+cg = casadi.CodeGenerator('mpc_solver',cg_options);
 cg.add_include('simstruc.h');
 cg.add(F);
 cg.generate();
