@@ -1,0 +1,10 @@
+^C:\USERS\DINHCK\DEV\PROJECT\QUANSER_DC_MOTOR\ACADOS_DC_MOTOR\C_GENERATED_CODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dinhck/dev/project/quanser_dc_motor/acados_dc_motor/c_generated_code -BC:/Users/dinhck/dev/project/quanser_dc_motor/acados_dc_motor/c_generated_code --check-stamp-file C:/Users/dinhck/dev/project/quanser_dc_motor/acados_dc_motor/c_generated_code/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

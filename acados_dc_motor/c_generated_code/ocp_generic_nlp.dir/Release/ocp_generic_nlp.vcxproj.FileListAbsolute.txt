@@ -1,0 +1,1 @@
+C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\Release\ocp_generic_nlp.lib

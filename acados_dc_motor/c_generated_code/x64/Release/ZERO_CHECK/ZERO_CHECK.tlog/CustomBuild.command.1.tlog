@@ -1,0 +1,10 @@
+^C:\USERS\DINHCK\DEV\PROJECT\QUANSER_DC_MOTOR\ACADOS_DC_MOTOR\C_GENERATED_CODE\CMAKEFILES\3B8CF3BAF72F8B92DDECC818BCB7582D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dinhck/dev/project/quanser_dc_motor/acados_dc_motor/c_generated_code -BC:/Users/dinhck/dev/project/quanser_dc_motor/acados_dc_motor/c_generated_code --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dinhck/dev/project/quanser_dc_motor/acados_dc_motor/c_generated_code/generic_nlp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

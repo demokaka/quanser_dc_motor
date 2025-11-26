@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\$(Configuration)\generic_nlp_cost_ext_cost_e_fun.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\$(Configuration)\generic_nlp_cost_ext_cost_e_fun_jac.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\$(Configuration)\generic_nlp_cost_ext_cost_e_fun_jac_hess.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\$(Configuration)\generic_nlp_constr_h_e_fun.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\$(Configuration)\generic_nlp_constr_h_e_fun_jac_uxt_zt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\ocp_generic_nlp.dir\$(Configuration)\acados_solver_generic_nlp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{D89BA814-6C22-33F9-9AAA-1064913B3F60}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

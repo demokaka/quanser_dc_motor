@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\generic_nlp_cost\generic_nlp_cost_ext_cost_e_fun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\generic_nlp_cost\generic_nlp_cost_ext_cost_e_fun_jac.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\generic_nlp_cost\generic_nlp_cost_ext_cost_e_fun_jac_hess.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\generic_nlp_constraints\generic_nlp_constr_h_e_fun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\generic_nlp_constraints\generic_nlp_constr_h_e_fun_jac_uxt_zt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\acados_solver_generic_nlp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{57864735-857A-3CE1-86E2-3960932B62A4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

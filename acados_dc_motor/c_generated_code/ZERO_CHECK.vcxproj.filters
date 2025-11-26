@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dinhck\dev\project\quanser_dc_motor\acados_dc_motor\c_generated_code\CMakeFiles\3b8cf3baf72f8b92ddecc818bcb7582d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0258D8F-1F56-35A7-8FA3-E3B2FC5FC8AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

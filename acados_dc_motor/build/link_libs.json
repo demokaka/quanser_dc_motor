@@ -1,0 +1,10 @@
+{
+	"openmp": "",
+	"qpoases": "qpOASES_e.lib",
+	"daqp": "",
+	"qpdunes": "",
+	"osqp": "osqp.lib",
+	"clarabel": "",
+	"hpmpc": "",
+	"ooqp": ""
+}
